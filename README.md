@@ -2,7 +2,7 @@
 
 JavaScript web server project for the Frontend Masters course [Intro to Web Development](https://bthold.github.io/intro-to-web-dev-v2/). <br />
 It will show a random complement each time a button is clicked. <br />
-This project has a front-end (index.html homepage with complements.js) and back-end (server.js). The server runs locally on "http://<i></i>localhost:3000".
+This project has a front-end (index.html homepage with complements.js) and back-end (server.js). The complements.js file is in the public folder. The server runs locally on "http://<i></i>localhost:3000".
 
 Some extra notes:
 - The npm was used to convert the project into a npm project (using npm init -y, requires Node.js to be installed).
