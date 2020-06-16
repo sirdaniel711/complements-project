@@ -14,7 +14,7 @@ Some extra notes:
 
 ## Directions
 Note: Requires Node.js to be installed ([link to Node.js installer](https://nodejs.org/en/download/))
-- First, copy all of the files.
+- First, copy all of the files from this project.
 - Next, use a console to navigate to the files.
 - Then, type "node server.js" to start the server. (the server will start to listen on port 3000)
 - Last, open a browser and type in "http://<i></i>localhost:3000" into the navigator to open the homepage (index.html).
